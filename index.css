@@ -32,7 +32,7 @@ li, a {
     cursor: pointer;
 }
 img {
-    width: 45px;
+    width: 40px;
     height: auto;
 }
 
@@ -222,7 +222,7 @@ p{
     font-family: 'Itim', sans-serif;
     font-weight: 300;
     color: rgb(176, 156, 27);
-    margin-top:50px;
+    margin-top:20px;
     font-size:1rem;
     text-align: center;
   
